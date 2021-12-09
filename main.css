@@ -14,6 +14,7 @@ a{
     height: 50vh;
     flex: 0.5;
     position: relative;
+    border-radius: 30px;
     transition: flex 0.7s ease-in;
 }
 .photo.active2{
