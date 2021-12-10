@@ -33,3 +33,11 @@ a{
 .photo.active2 h3{
     opacity: 1;
 }
+
+div.item{
+    transition: .5s ease-in-out;
+}
+
+div.item:hover{
+    filter: brightness(80%);
+}
