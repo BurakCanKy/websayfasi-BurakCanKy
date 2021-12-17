@@ -41,3 +41,7 @@ div.item{
 div.item:hover{
     filter: brightness(80%);
 }
+.text-xl{
+    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
